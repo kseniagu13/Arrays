@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{F03D2956-8E63-420D-A96B-402142DE2EF0}|Default">
+  <MonoDevelop.Ide.ItemProperties.ArrayStaticMethods PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.CompareArrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Array PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="randomArray/Program.cs">
+    <Files>
+      <File FileName="Arrays/Program.cs" Line="18" Column="1" />
+      <File FileName="Array/Program.cs" Line="38" Column="57" />
+      <File FileName="Array.String/Program.cs" Line="55" Column="32" />
+      <File FileName="ArrayStaticMethods/Program.cs" Line="64" Column="1" />
+      <File FileName="CompareArrays/Program.cs" Line="40" Column="7" />
+      <File FileName="randomArray/Program.cs" Line="27" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Arrays" expanded="True">
+            <Node name="Array" expanded="True" />
+            <Node name="Array.String" expanded="True" />
+            <Node name="Arrays" expanded="True" />
+            <Node name="ArrayStaticMethods" expanded="True" />
+            <Node name="CompareArrays" expanded="True" />
+            <Node name="randomArray" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.randomArray PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Arrays PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Array.String PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

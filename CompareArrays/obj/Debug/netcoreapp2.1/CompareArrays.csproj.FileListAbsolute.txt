@@ -1,0 +1,10 @@
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/obj/Debug/netcoreapp2.1/CompareArrays.csproj.CoreCompileInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/obj/Debug/netcoreapp2.1/CompareArrays.AssemblyInfoInputs.cache
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/obj/Debug/netcoreapp2.1/CompareArrays.AssemblyInfo.cs
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/bin/Debug/netcoreapp2.1/CompareArrays.deps.json
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/bin/Debug/netcoreapp2.1/CompareArrays.runtimeconfig.json
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/bin/Debug/netcoreapp2.1/CompareArrays.runtimeconfig.dev.json
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/bin/Debug/netcoreapp2.1/CompareArrays.dll
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/bin/Debug/netcoreapp2.1/CompareArrays.pdb
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/obj/Debug/netcoreapp2.1/CompareArrays.dll
+/Users/kseniagustsenko/Desktop/program.alused/Arrays/CompareArrays/obj/Debug/netcoreapp2.1/CompareArrays.pdb
